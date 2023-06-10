@@ -9,4 +9,4 @@ print(check_symmetric(R))
 
 print(check_transitive(R))
 
-print(check_equivalnce(R))
+print(check_equivalance(R))
